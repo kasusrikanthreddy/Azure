@@ -1,0 +1,88 @@
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.exe
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.deps.json
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.json
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.dev.json
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.AssemblyReference.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfoInputs.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfo.cs
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.Manifest.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.xml
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListing.styles.css
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.RazorTargetAssemblyInfo.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.exe
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.deps.json
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.json
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.dev.json
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.AssemblyReference.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfoInputs.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfo.cs
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.Manifest.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.xml
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListing.styles.css
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\Downloads\5_6138674053252122420\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.exe
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.deps.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.dev.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.AssemblyReference.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfoInputs.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfo.cs
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.Manifest.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.xml
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListing.styles.css
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.exe
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.deps.json
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.json
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.runtimeconfig.dev.json
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.AssemblyReference.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfoInputs.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfo.cs
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.Manifest.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListing.StaticWebAssets.xml
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListing.styles.css
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
+C:\Users\kasus\OneDrive\Desktop\stage 4\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
