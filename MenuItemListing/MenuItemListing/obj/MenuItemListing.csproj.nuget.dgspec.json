@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
+    "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
+    "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "projectUniqueName": "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
         "projectName": "MenuItemListing",
-        "projectPath": "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "projectPath": "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
         "packagesPath": "C:\\Users\\kasus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\obj\\",
+        "outputPath": "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kasus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

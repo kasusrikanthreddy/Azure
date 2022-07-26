@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S+dXSwrYXy/CZfZEpPidYYzMvhOMekIMwSYSiD0D5l5D/vgtwOQfNw+6pAZd2XnvdKXYIDdfRpG5KegMMvLlBg==",
+  "dgSpecHash": "lbt/YSmk8SMXc0k56CcvE/FrKd/7ByDetH7cx9/XTtHx/WHZreryh3RSv4fbteVtVyNIFhRK37yyKHNVZBZpwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kasus\\OneDrive\\Desktop\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+  "projectFilePath": "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kasus\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\kasus\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
@@ -20,8 +20,7 @@
     "C:\\Users\\kasus\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\kasus\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\kasus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
-    "C:\\Users\\kasus\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\kasus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\kasus\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
